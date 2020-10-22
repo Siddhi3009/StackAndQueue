@@ -30,6 +30,7 @@ namespace StackAndQueue
                 Console.Write(temp.data + " ");
                 temp = temp.next;
             }
+            Console.WriteLine("\n_____________________________________________________");
         }
         public void Peek()
         {
